@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:czzonet/vuepress-starter.git",
+  "author": "czz <czzonet@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
